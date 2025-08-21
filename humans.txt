@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    no u r not getting anything here even tho u can just check my github
 
 # THANKS
 
@@ -13,3 +13,7 @@
 
     HTML5, CSS3
     jQuery, Modernizr
+
+#we are the humans afteralll
+
+#dont put your blame on me.........
